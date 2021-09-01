@@ -1,1 +1,3 @@
-testando comite
+testando commit
+testando pull
+testandi edição 
