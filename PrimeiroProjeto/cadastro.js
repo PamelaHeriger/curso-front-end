@@ -4,7 +4,7 @@ var readlineSync = require("readline-sync");
 var resp, nomeEvento, dataEvento, quantEventos;
 var dataPartes, strData;
 var idadeparticipante, nomeparticipante, quantParticipante;
-const numParticipante = 4;
+const numParticipante = 100;
 var quantPalestrante, i, nomepalestrante;
 var evento = [], listaPalestrante = [], listaParticipante = [];
 
