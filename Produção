@@ -1,0 +1,89 @@
+<mxfile host="app.diagrams.net" modified="2021-10-22T14:12:07.681Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 Edg/94.0.992.50" etag="2jgJ-_debCJqcYpDvNLM" version="15.5.8" type="github">
+  <diagram id="jkD51eN0zS6upZWip50U" name="Página-1">
+    <mxGraphModel dx="987" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="P_Qu2boai61EumZjZd7C-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=5;" edge="1" parent="1" source="P_Qu2boai61EumZjZd7C-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P_Qu2boai61EumZjZd7C-4" value="&lt;b&gt;INÍCIO&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="70" y="20" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P_Qu2boai61EumZjZd7C-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=5;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="140" as="sourcePoint" />
+            <mxPoint x="130" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P_Qu2boai61EumZjZd7C-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=5;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="220" as="sourcePoint" />
+            <mxPoint x="130" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P_Qu2boai61EumZjZd7C-11" value="&lt;p style=&quot;line-height: normal ; margin: 0pt 0in ; text-indent: 0in ; direction: ltr ; unicode-bidi: embed&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;corbel&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Liberado para fabricar &lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="62" y="100" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P_Qu2boai61EumZjZd7C-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=5;" edge="1" parent="1" source="P_Qu2boai61EumZjZd7C-13" target="P_Qu2boai61EumZjZd7C-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_Qu2boai61EumZjZd7C-13" value="&lt;p style=&quot;line-height: normal ; margin: 0pt 0in ; text-indent: 0in ; direction: ltr ; unicode-bidi: embed&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;corbel&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Consulta de desenhos impressos&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="60" y="181" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P_Qu2boai61EumZjZd7C-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=5;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="P_Qu2boai61EumZjZd7C-21" target="P_Qu2boai61EumZjZd7C-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="400" as="sourcePoint" />
+            <mxPoint x="130" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P_Qu2boai61EumZjZd7C-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=5;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="199" y="439" as="sourcePoint" />
+            <mxPoint x="234" y="439" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P_Qu2boai61EumZjZd7C-19" value="&lt;span style=&quot;font-size: 18pt ; font-family: &amp;#34;corbel&amp;#34;&quot;&gt;fim&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="235" y="416.5" width="120" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="P_Qu2boai61EumZjZd7C-21" value="&lt;p style=&quot;line-height: normal ; margin: 0pt 0in ; text-indent: 0in ; direction: ltr ; unicode-bidi: embed&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;corbel&amp;#34;&quot;&gt;Consulta de lista de processos&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="59" y="340" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P_Qu2boai61EumZjZd7C-22" value="&lt;span style=&quot;font-family: &amp;#34;corbel&amp;#34;&quot;&gt;Fabricação&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="59" y="421" width="139" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="P_Qu2boai61EumZjZd7C-24" value="&lt;p style=&quot;line-height: normal ; margin: 0pt 0in ; text-indent: 0in ; direction: ltr ; unicode-bidi: embed&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;corbel&amp;#34;&quot;&gt;Desenho com medidas corretas&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="59" y="260" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P_Qu2boai61EumZjZd7C-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=5;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="129.5" y="300" as="sourcePoint" />
+            <mxPoint x="129.5" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P_Qu2boai61EumZjZd7C-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;strokeWidth=5;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="P_Qu2boai61EumZjZd7C-29" target="P_Qu2boai61EumZjZd7C-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_Qu2boai61EumZjZd7C-29" value="&lt;p style=&quot;line-height: normal ; margin: 0pt 0in ; text-indent: 0in ; direction: ltr ; unicode-bidi: embed&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;corbel&amp;#34;&quot;&gt;Desenho com medidas faltando&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=4;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="236" y="182" width="120" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="P_Qu2boai61EumZjZd7C-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;strokeWidth=5;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P_Qu2boai61EumZjZd7C-31" target="P_Qu2boai61EumZjZd7C-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P_Qu2boai61EumZjZd7C-31" value="&lt;p style=&quot;line-height: normal ; margin: 0pt 0in ; text-indent: 0in ; direction: ltr ; unicode-bidi: embed&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;corbel&amp;#34;&quot;&gt;Ir até a engenharia tirar duvidas&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=4;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="390" y="182" width="120" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="P_Qu2boai61EumZjZd7C-34" value="&lt;p style=&quot;line-height: normal ; margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; margin-right: 0in ; text-indent: 0in ; text-align: left ; direction: ltr ; unicode-bidi: embed&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;corbel&amp;#34; ; font-variant: normal ; color: red ; text-transform: none ; font-weight: bold ; font-style: normal&quot;&gt;* Erros de&lt;br&gt;produção por conta de desenhos com revisão erradas&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="210" y="100" width="350" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

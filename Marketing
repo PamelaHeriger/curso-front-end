@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net" modified="2021-10-21T14:17:47.723Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="qahN24TMHr5aimO3RNzn" version="15.5.8" type="github">
+  <diagram id="vPgDvVBrOj-jutV5CWev" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SpVdL8KeXE43MZ8_M7qt-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=5;" edge="1" parent="1" source="SpVdL8KeXE43MZ8_M7qt-1" target="SpVdL8KeXE43MZ8_M7qt-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpVdL8KeXE43MZ8_M7qt-1" value="Início" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="355" y="60" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SpVdL8KeXE43MZ8_M7qt-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=5;" edge="1" parent="1" source="SpVdL8KeXE43MZ8_M7qt-2" target="SpVdL8KeXE43MZ8_M7qt-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpVdL8KeXE43MZ8_M7qt-2" value="Criação do Produto" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="360" y="144" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SpVdL8KeXE43MZ8_M7qt-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=5;" edge="1" parent="1" source="SpVdL8KeXE43MZ8_M7qt-4" target="SpVdL8KeXE43MZ8_M7qt-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpVdL8KeXE43MZ8_M7qt-4" value="Pesquisa De Mercado" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="360" y="214" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SpVdL8KeXE43MZ8_M7qt-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=5;" edge="1" parent="1" source="SpVdL8KeXE43MZ8_M7qt-7" target="SpVdL8KeXE43MZ8_M7qt-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpVdL8KeXE43MZ8_M7qt-7" value="Definição de Requisitos de Produto" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="360" y="284" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SpVdL8KeXE43MZ8_M7qt-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=5;" edge="1" parent="1" source="SpVdL8KeXE43MZ8_M7qt-9" target="SpVdL8KeXE43MZ8_M7qt-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpVdL8KeXE43MZ8_M7qt-9" value="Criação do Documento&lt;br&gt;(Folha de Requisitos de Produto)" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="360" y="364" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SpVdL8KeXE43MZ8_M7qt-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=5;" edge="1" parent="1" source="SpVdL8KeXE43MZ8_M7qt-11" target="SpVdL8KeXE43MZ8_M7qt-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpVdL8KeXE43MZ8_M7qt-11" value="Encaminhamento para a Engenharia de Produto" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="360" y="454" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SpVdL8KeXE43MZ8_M7qt-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=5;" edge="1" parent="1" source="SpVdL8KeXE43MZ8_M7qt-13" target="SpVdL8KeXE43MZ8_M7qt-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpVdL8KeXE43MZ8_M7qt-13" value="Encaminhamento Para o Desenvolvimento" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="360" y="544" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SpVdL8KeXE43MZ8_M7qt-15" value="FIM" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="520" y="549" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SpVdL8KeXE43MZ8_M7qt-18" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;b style=&quot;color: rgb(0 , 153 , 0)&quot;&gt;* Engenharia não envia o projeto para o marketing&lt;/b&gt;&lt;/div&gt;&lt;font color=&quot;#009900&quot;&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;b&gt;validar se os requisitos foram atendidos.&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;b&gt;* Falta de acesso ao cronograma de desenvolvimento.&lt;/b&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="69" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SpVdL8KeXE43MZ8_M7qt-19" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;b&gt;* Falta de acesso ao modelo 3D, precisam solicitar&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;b&gt;com&amp;nbsp;&lt;/b&gt;&lt;b&gt;a Engenharia de Produto.&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="49" y="469" width="310" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
