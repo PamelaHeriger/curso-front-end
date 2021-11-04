@@ -1,0 +1,12 @@
+	SITES PARA DÚVIDAS
+
+ALTERAR COR BUTTON
+https://www.ti-enxame.com/pt/css/como-alterar-cor-do-botao-bootstrap-versao-4/837495767/
+
+
+INSERIR ÍCONES
+https://www.alura.com.br/artigos/como-utilizar-icones-em-paginas-web?gclid=CjwKCAjwiY6MBhBqEiwARFSCPqvS9O8AwCZvuH2r-N6bkfeLEVGPIaKtBIEMA3p9vNyo5nXrGzfVvRoCjigQAvD_BwE
+
+
+INSERIR IMAGENS E LOGO
+https://www.hostinger.com.br/tutoriais/como-inserir-imagem-html-no-site?ppc_campaign=google_performance_max&gclid=CjwKCAjwiY6MBhBqEiwARFSCPq7Fa14g5D7RInP712FcfFqt3TkDmTu71Q5m_8V0Rvu_HyjxITokCBoCpTQQAvD_BwE
